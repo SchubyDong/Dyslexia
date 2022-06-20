@@ -2210,3 +2210,1188 @@ MotionControllerPawn_C.ReceiveBeginPlay
 [2022.06.20-15.40.31:659][649]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.20-15.40.31:659][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Dyslexia/Maps/Dyslexia_BuiltData.Dyslexia_BuiltData
 [2022.06.20-15.40.31:659][649]LogContentValidation: Display: Validating World /Game/Dyslexia/Maps/Dyslexia.Dyslexia
+[2022.06.20-15.41.24:662][541]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-15.41.24:693][541]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-15.41.24:693][541]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-15.41.24:693][541]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-15.41.24:693][541]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-15.41.25:099][574]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-15.41.25:099][574]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.41.25:099][574]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.20-15.41.26:864][770]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-15.41.26:877][771]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-15.41.26:877][771]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-15.41.26:877][771]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-15.41.26:877][771]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-15.41.27:202][794]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-15.41.27:202][794]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.41.27:202][794]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-15.41.27:202][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-15.41.30:070][890]LogSlate: Window 'Message' being destroyed
+[2022.06.20-15.41.30:074][890]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.20-15.41.30:479][890]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-15.41.30:495][890]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-15.41.30:495][890]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-15.41.30:495][890]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-15.41.30:495][890]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-15.41.30:498][890]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-15.41.30:500][890]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-15.41.30:500][890]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-15.41.30:500][890]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-15.41.30:500][890]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-15.41.30:505][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.20-15.41.30:506][890]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-15.41.30:510][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.20-15.41.30:516][890]LogSlate: Window 'PPM_Outline' being destroyed
+[2022.06.20-15.41.30:517][890]LogSlate: Window 'PPM_Outline' being destroyed
+[2022.06.20-15.41.30:535][890]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.41.30:535][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.41.30:559][890]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.41.30:560][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.41.57:497][895]LogSlate: Took 0.008148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.20-15.42.03:675][612]LogActorFactory: Actor Factory created quran1_book_hardback
+[2022.06.20-15.42.04:262][676]LogActorFactory: Actor Factory created quran1_book_hardback
+[2022.06.20-15.42.32:061][953]Cmd: DELETE
+[2022.06.20-15.42.32:061][953]Cmd: ACTOR DELETE
+[2022.06.20-15.42.32:067][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.20-15.42.32:067][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.20-15.42.32:072][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.20-15.42.32:074][953]LogEditorActor: Deleted 2 Actors (0.012 secs)
+[2022.06.20-15.42.37:208][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-15.42.53:378][752]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.06.20-15.42.53:383][752]LogActorComponent: UnregisterComponent: (/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.Default__quran1_book_hardback3_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2022.06.20-15.42.53:389][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.20-15.42.53:415][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.42.53:804][752]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.06.20-15.43.11:893][702]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.20-15.43.11:894][702]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.20-15.44.46:336][436]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.45.17:983][965]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.45.17:986][965]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.45.17:990][965]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.45.17:990][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.45.21:923][408]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-15.45.23:708][616]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-15.45.23:712][616]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.20-15.45.23:713][616]LogPlayLevel: [PlayLevel] Compiling quran1_book_hardback3_Blueprint before play...
+[2022.06.20-15.45.23:760][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.20-15.45.23:763][616]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2022.06.20-15.45.23:763][616]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 7:45:23 AM)
+[2022.06.20-15.45.23:764][616]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.45.23:769][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005464s)
+[2022.06.20-15.45.23:770][616]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-15.45.23:770][616]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2022.06.20-15.45.23:770][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006413s)
+[2022.06.20-15.45.23:782][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.06.20-15.45.23:783][616]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-15.45.23:783][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-15.45.23:783][616]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-15.45.23:783][616]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-15.45.23:786][616]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-15.45.23:786][616]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-15.45.23:793][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-15.45.23:793][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-15.45.23:804][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-15.45.23:804][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-15.45.23:804][616]LogInit: FAudioDevice initialized.
+[2022.06.20-15.45.23:804][616]LogAudio: Display: Audio Device (ID: 10) registered with world 'Dyslexia'.
+[2022.06.20-15.45.23:809][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.45.23:856][616]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-15.45.23:858][616]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-11.45.23
+[2022.06.20-15.45.23:858][616]LogWorld: Bringing up level for play took: 0.001484
+[2022.06.20-15.45.23:858][616]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.06.20-15.45.23:865][616]PIE: Server logged in
+[2022.06.20-15.45.23:866][616]PIE: Play in editor total start time 0.154 seconds.
+[2022.06.20-15.45.23:912][618]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-15.45.25:712][778]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-15.45.25:712][778]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-15.45.32:340][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.45.32:340][369]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.45.32:369][369]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-15.45.32:403][369]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.45.32:404][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.45.32:410][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-15.45.32:423][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.45.32:434][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.45.32:435][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.45.32:449][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.06.20-15.45.32:473][370]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.06.20-15.45.38:907][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.45.49:664][ 43]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.45.49:667][ 43]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.45.49:670][ 43]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.45.49:670][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.45.53:649][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.46.00:021][978]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.46.00:024][978]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.46.00:027][978]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.46.00:027][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.46.12:349][386]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.20-15.46.15:214][726]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.20-15.46.15:517][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-15.46.30:948][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.40:541][582]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardback3_Blueprint874DD00C4DF7E70CEF4AD8BEE319676D.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.uasset'
+[2022.06.20-15.47.40:557][582]AssetCheck: New page: Asset Save: quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.40:557][582]LogContentValidation: Display: Validating Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.41:700][703]BlueprintLog: New page: Compile quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.41:731][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.20-15.47.58:088][600]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardback3_BlueprintA74420534B8660C4BEE23EB505ED53D0.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.uasset'
+[2022.06.20-15.47.58:096][600]AssetCheck: New page: Asset Save: quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.58:096][600]LogContentValidation: Display: Validating Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.47.58:600][659]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.47.58:602][659]LogSlate: Window 'quran1_book_hardback3_Blueprint' being destroyed
+[2022.06.20-15.47.58:606][659]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.47.58:606][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.48.07:902][231]LogEditorViewport: Clicking on Actor (LMB): Dys_Life_C (3Dys_Life2)
+[2022.06.20-15.48.08:727][317]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-15.48.17:255][293]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-15.48.17:255][293]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.48.17:357][293]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.48.17:362][293]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.48.17:371][293]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.48.17:374][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.48.17:409][293]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-15.48.17:409][293]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-15.48.17:409][293]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-15.48.18:165][320]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.06.20-15.48.18:439][329]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.48.18:439][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.48.18:439][329]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.48.18:439][329]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.48.20:730][594]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.48.20:756][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.48.20:756][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.48.20:757][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.48.55:698][716]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.50.40:675][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.06.20-15.50.40:682][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.20-15.50.40:709][847]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_Auto2253C622C4054D5391042369D58F8C752.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto2.umap'
+[2022.06.20-15.50.40:710][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.049
+[2022.06.20-15.50.40:710][847]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.06.20-15.50.40:710][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dyslexia/Materials/Postprocessvolume_M] ([1] browsable assets)...
+[2022.06.20-15.50.40:731][847]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M]
+[2022.06.20-15.50.40:731][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/Materials/Postprocessvolume_M]
+[2022.06.20-15.50.40:735][847]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M_Auto2E87BC98E4AA8CCE9BE2E1589AC751C2E.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Materials/Postprocessvolume_M_Auto2.uasset'
+[2022.06.20-15.50.40:736][847]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.06.20-15.51.22:288][247]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.51.22:297][247]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.51.22:298][247]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.22:308][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.51.22:346][248]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2022.06.20-15.51.22:346][248]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2022.06.20-15.51.22:346][248]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2022.06.20-15.51.22:353][248]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.20-15.51.23:012][257]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2022.06.20-15.51.23:106][261]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2022.06.20-15.51.23:108][261]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2022.06.20-15.51.23:135][262]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2022.06.20-15.51.23:263][268]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.23:324][271]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.06.20-15.51.23:423][275]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-15.51.23:491][278]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.06.20-15.51.23:541][280]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.06.20-15.51.23:541][280]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.06.20-15.51.23:541][280]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-15.51.23:583][282]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.06.20-15.51.24:118][307]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.51.24:118][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.51.24:118][307]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.51.24:118][307]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.51.25:281][435]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.51.25:311][436]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.51.26:041][476]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.51.26:041][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.51.26:041][476]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.51.26:041][476]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.51.38:547][673]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.51.38:562][673]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.51.38:563][673]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.51.38:563][673]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.38:576][673]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.51.38:576][673]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.51.38:576][673]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.51.38:579][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.51.38:630][674]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.20-15.51.39:193][686]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2022.06.20-15.51.39:214][687]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2022.06.20-15.51.39:256][689]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.06.20-15.51.39:256][689]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2022.06.20-15.51.39:479][699]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.39:504][700]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.06.20-15.51.39:552][702]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-15.51.39:619][705]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.06.20-15.51.39:656][707]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.20-15.51.39:678][708]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.06.20-15.51.39:678][708]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.06.20-15.51.39:678][708]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.20-15.51.40:301][738]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.51.40:302][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.51.40:302][738]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.51.40:302][738]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.51.40:790][794]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.51.40:829][795]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.51.47:897][574]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.51.47:897][574]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.51.47:897][574]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.51.47:897][574]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.51.55:198][286]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardback9CE91514400EC2BEB0B9CCB0D8348BEB.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/quran1_book_hardback.uasset'
+[2022.06.20-15.51.55:199][286]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardbackC9AAB13F48E45347588009B7D8A640DE.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback.uasset'
+[2022.06.20-15.51.55:243][286]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.20-15.51.55:243][286]LogContentValidation: Display: Validating StaticMesh /Game/Dyslexia/Dyslexia_Blueprints/Materials/quran1_book_hardback.quran1_book_hardback
+[2022.06.20-15.51.55:243][286]LogContentValidation: Display: Validating ObjectRedirector /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback.quran1_book_hardback
+[2022.06.20-15.52.05:663][359]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Materials/PPM_Outline.PPM_Outline
+[2022.06.20-15.52.05:665][359]LogMaterial: Display: Missing cached shader map for material PPM_Outline, compiling. 
+[2022.06.20-15.52.05:731][359]LogMaterial: Display: Missing cached shader map for material PPM_Outline, compiling. 
+[2022.06.20-15.52.05:736][359]LogMaterial: Display: Missing cached shader map for material PPM_Outline, compiling. 
+[2022.06.20-15.52.05:742][359]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.52.05:769][359]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.06.20-15.52.05:769][359]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.06.20-15.52.05:769][359]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.06.20-15.52.05:770][359]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.06.20-15.52.05:770][359]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-15.52.05:770][359]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-15.52.05:770][359]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-15.52.05:770][359]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-15.52.06:380][395]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-15.52.06:380][395]MaterialEditorStats: Base pass vertex shader: 103 instructions
+[2022.06.20-15.52.06:380][395]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.52.06:380][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(10)
+[2022.06.20-15.52.06:380][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComponentMask /SpeedTreeImporter/SpeedTree9/SpeedTreeWind.SpeedTreeWind:MaterialExpressionComponentMask_8 or MaterialExpressionComponentMask /Engine/EditorMaterials/CompositeARGBLayer.CompositeARGBLayer:MaterialExpressionComponentMask_8
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComponentMask /SpeedTreeImporter/SpeedTree9/SpeedTreeWind.SpeedTreeWind:MaterialExpressionComponentMask_8 or MaterialExpressionComponentMask /Game/Dyslexia/Materials/PPM_Outline.PPM_Outline:MaterialExpressionComponentMask_8
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComponentMask /SpeedTreeImporter/SpeedTree9/SpeedTreeWind.SpeedTreeWind:MaterialExpressionComponentMask_8 or MaterialExpressionComponentMask /Engine/EditorMaterials/LevelGridMaterial2.LevelGridMaterial2:MaterialExpressionComponentMask_8
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComponentMask /SpeedTreeImporter/SpeedTree9/SpeedTreeWind.SpeedTreeWind:MaterialExpressionComponentMask_8 or MaterialExpressionComponentMask /Engine/Transient.PPM_Outline:MaterialExpressionComponentMask_8
+[2022.06.20-15.52.11:367][909]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComponentMask /SpeedTreeImporter/SpeedTree9/SpeedTreeWind.SpeedTreeWind:MaterialExpressionComponentMask_8) from referencer (MaterialExpressionLinearInterpolate /Engine/Transient.book_hardbackMat:MaterialGraph_0.MaterialGraphNode_0.MaterialExpressionLinearInterpolate_0).  Import failed...
+[2022.06.20-15.52.11:367][909]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialExpressionComponentMask_8"')'
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.sRGBToLinear:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/EditorLandscapeResources/SplineEditorMeshMat.SplineEditorMeshMat:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard.SpeedTreeBillboard:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/EngineMaterials/HighResScreenshotCaptureRegion.HighResScreenshotCaptureRegion:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/EngineDebugMaterials/GeomMaterial.GeomMaterial:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/EngineDebugMaterials/ClothMaterial_WF.ClothMaterial_WF:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/EditorMaterials/TilingAALineIntegral.TilingAALineIntegral:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.ComputeFilterWidth:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Game/Dyslexia/Materials/PPM_Outline.PPM_Outline:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/Transient.Postprocessvolume_M:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0 or MaterialExpressionIf /Engine/Transient.PPM_Outline:MaterialExpressionIf_0
+[2022.06.20-15.52.11:367][909]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionIf /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionIf_0) from referencer (MaterialExpressionLinearInterpolate /Engine/Transient.book_hardbackMat:MaterialGraph_0.MaterialGraphNode_0.MaterialExpressionLinearInterpolate_0).  Import failed...
+[2022.06.20-15.52.11:367][909]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialExpressionIf_0"')'
+[2022.06.20-15.52.11:376][909]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.52.11:394][910]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.52.11:395][910]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.52.11:395][910]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.52.11:395][910]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.52.12:258][965]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.52.12:258][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.52.12:258][965]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.52.12:258][965]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.52.14:066][160]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.52.14:076][160]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.52.14:079][160]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.52.14:096][161]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-15.52.14:096][161]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-15.52.14:096][161]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-15.52.14:661][182]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.06.20-15.52.15:056][199]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.52.15:056][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.52.15:056][199]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.52.15:056][199]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.52.54:251][ 67]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.52.54:273][ 68]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.52.56:309][258]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.52.56:309][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.52.56:309][258]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.52.56:309][258]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.52.57:258][358]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.52.57:286][359]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.52.58:030][403]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.52.58:030][403]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.52.58:030][403]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.52.58:030][403]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.08:264][731]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.08:283][732]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.08:284][732]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.09:033][773]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.09:033][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.09:033][773]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.09:033][773]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.19:537][  4]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.19:560][  5]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.20:966][ 46]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.20:966][ 46]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.20:966][ 46]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.20:966][ 46]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.35:259][451]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.35:264][451]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.35:264][451]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.35:309][452]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.53.35:309][452]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.53.35:309][452]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.53.35:920][476]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.06.20-15.53.35:920][476]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2022.06.20-15.53.35:920][476]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.36:059][482]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.06.20-15.53.36:135][485]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.06.20-15.53.36:200][488]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-15.53.37:053][561]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.37:053][561]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.37:053][561]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.37:053][561]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.41:673][ 93]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.41:677][ 93]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.41:678][ 93]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.41:678][ 93]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.41:696][ 94]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.53.41:696][ 94]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.53.41:696][ 94]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.53.42:334][120]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.06.20-15.53.42:334][120]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-15.53.42:334][120]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-15.53.42:355][121]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.20-15.53.42:562][130]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.20-15.53.42:611][132]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.20-15.53.43:152][165]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.43:152][165]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.43:152][165]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.43:152][165]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.46:141][499]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.46:151][499]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.46:152][499]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-15.53.46:158][499]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-15.53.46:186][500]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.06.20-15.53.46:186][500]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.06.20-15.53.46:186][500]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.06.20-15.53.46:800][524]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-15.53.46:801][524]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-15.53.46:801][524]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-15.53.46:821][525]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-15.53.46:912][530]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.06.20-15.53.47:748][602]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.47:748][602]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.47:748][602]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.47:748][602]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.51:315][974]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.51:327][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.51:329][974]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.51:346][975]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-15.53.51:346][975]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-15.53.51:346][975]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-15.53.51:891][996]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.51:908][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-15.53.51:918][996]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.53.52:002][999]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.06.20-15.53.52:030][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2022.06.20-15.53.52:030][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2022.06.20-15.53.52:095][  3]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2022.06.20-15.53.52:159][  6]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.06.20-15.53.52:180][  7]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-15.53.52:319][ 13]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.06.20-15.53.52:370][ 15]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-15.53.52:441][ 18]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.52:442][ 18]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.20-15.53.52:468][ 19]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.06.20-15.53.52:489][ 20]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-15.53.52:631][ 26]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.06.20-15.53.53:592][ 85]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.53:599][ 85]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.53:601][ 85]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.53:617][ 86]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-15.53.53:617][ 86]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-15.53.53:617][ 86]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-15.53.54:268][109]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.54:725][139]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.54:725][139]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.54:725][139]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.54:725][139]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.56:445][321]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.56:460][322]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.57:224][353]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.53.57:224][353]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.53.57:224][353]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.53.57:224][353]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.53.58:370][475]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-15.53.58:775][475]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.53.58:807][475]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.53.58:813][475]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.53.58:826][475]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-15.53.58:826][475]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-15.53.58:826][475]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-15.53.58:844][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.06.20-15.53.58:857][475]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-15.53.59:418][475]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.20-15.53.59:418][475]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.06.20-15.53.59:418][475]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.06.20-15.53.59:822][475]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-15.53.59:822][475]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-15.53.59:822][475]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.20-15.53.59:822][475]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-15.53.59:822][475]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-15.53.59:825][475]TextureStreamingBuild: Display: Compiling optional shaders took 0.973 seconds.
+[2022.06.20-15.53.59:844][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.06.20-15.54.00:303][475]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMatC1868F5D40F86C85805D3BB61276ECF3.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-15.54.00:310][475]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-15.54.00:310][475]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-15.54.00:310][475]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.54.00:310][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.54.00:310][475]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.54.00:310][475]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.20-15.54.24:522][876]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-15.54.25:346][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.55.42:212][273]BlueprintLog: New page: Compile quran1_book_hardback3_Blueprint
+[2022.06.20-15.55.42:258][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.06.20-15.55.45:182][560]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-15.55.45:199][560]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMat360943C444BFB6C46D7719B45546485D.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-15.55.45:207][560]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-15.55.45:207][560]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-15.56.18:711][ 48]BlueprintLog: New page: Compile quran1_book_hardback3_Blueprint
+[2022.06.20-15.56.18:762][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.20-15.56.39:832][387]BlueprintLog: New page: Compile quran1_book_hardback3_Blueprint
+[2022.06.20-15.56.39:878][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.20-15.56.45:499][ 32]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-15.56.45:504][ 32]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.20-15.56.45:504][ 32]LogPlayLevel: [PlayLevel] Compiling Dyslexia before play...
+[2022.06.20-15.56.45:533][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.20-15.56.45:533][ 32]LogPlayLevel: PlayLevel: Blueprint regeneration took 28 ms (1 blueprints)
+[2022.06.20-15.56.45:533][ 32]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 7:56:45 AM)
+[2022.06.20-15.56.45:533][ 32]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.56.45:539][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005679s)
+[2022.06.20-15.56.45:540][ 32]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-15.56.45:540][ 32]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2022.06.20-15.56.45:540][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006905s)
+[2022.06.20-15.56.45:554][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.06.20-15.56.45:554][ 32]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-15.56.45:554][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-15.56.45:554][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-15.56.45:555][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-15.56.45:555][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-15.56.45:557][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-15.56.45:557][ 32]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-15.56.45:564][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-15.56.45:575][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-15.56.45:575][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-15.56.45:575][ 32]LogInit: FAudioDevice initialized.
+[2022.06.20-15.56.45:575][ 32]LogAudio: Display: Audio Device (ID: 11) registered with world 'Dyslexia'.
+[2022.06.20-15.56.45:581][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.56.45:612][ 32]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-15.56.45:614][ 32]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-11.56.45
+[2022.06.20-15.56.45:614][ 32]LogWorld: Bringing up level for play took: 0.001541
+[2022.06.20-15.56.45:614][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.06.20-15.56.45:622][ 32]PIE: Server logged in
+[2022.06.20-15.56.45:624][ 32]PIE: Play in editor total start time 0.12 seconds.
+[2022.06.20-15.56.45:667][ 34]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-15.56.47:503][197]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-15.56.47:503][197]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-15.57.04:104][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.57.04:104][642]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.57.04:169][642]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-15.57.04:203][642]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.57.04:203][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.04:215][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-15.57.04:229][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.04:242][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.04:243][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.04:258][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.20-15.57.04:291][643]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.06.20-15.57.11:786][454]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.57.11:786][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.32:047][291]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-15.57.32:051][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-15.57.32:051][291]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 7:57:32 AM)
+[2022.06.20-15.57.32:051][291]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.57.32:058][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006816s)
+[2022.06.20-15.57.32:059][291]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-15.57.32:060][291]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2022.06.20-15.57.32:060][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007952s)
+[2022.06.20-15.57.32:076][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.06.20-15.57.32:078][291]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-15.57.32:078][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-15.57.32:078][291]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-15.57.32:078][291]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-15.57.32:081][291]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-15.57.32:081][291]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-15.57.32:088][291]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-15.57.32:088][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-15.57.32:088][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-15.57.32:088][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-15.57.32:089][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-15.57.32:089][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-15.57.32:089][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-15.57.32:100][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-15.57.32:100][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-15.57.32:100][291]LogInit: FAudioDevice initialized.
+[2022.06.20-15.57.32:100][291]LogAudio: Display: Audio Device (ID: 12) registered with world 'Dyslexia'.
+[2022.06.20-15.57.32:105][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.57.32:150][291]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-15.57.32:152][291]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-11.57.32
+[2022.06.20-15.57.32:152][291]LogWorld: Bringing up level for play took: 0.001548
+[2022.06.20-15.57.32:152][291]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.06.20-15.57.32:161][291]PIE: Server logged in
+[2022.06.20-15.57.32:163][291]PIE: Play in editor total start time 0.111 seconds.
+[2022.06.20-15.57.32:207][293]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-15.57.34:235][384]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-15.57.34:235][384]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-15.57.41:980][810]LogHMD: Warning: SteamVR Compositor had an error on present (108)
+[2022.06.20-15.57.42:075][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.57.42:075][817]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.57.42:076][817]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-15.57.42:103][817]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.57.42:103][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.42:111][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-15.57.42:124][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.42:137][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.42:138][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.42:153][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.06.20-15.57.42:186][818]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.06.20-15.57.42:823][887]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-15.57.42:827][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-15.57.42:827][887]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 7:57:42 AM)
+[2022.06.20-15.57.42:827][887]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.57.42:833][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005501s)
+[2022.06.20-15.57.42:834][887]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-15.57.42:834][887]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.06.20-15.57.42:834][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006408s)
+[2022.06.20-15.57.42:848][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.06.20-15.57.42:848][887]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-15.57.42:848][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-15.57.42:848][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-15.57.42:849][887]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-15.57.42:849][887]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-15.57.42:851][887]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-15.57.42:851][887]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-15.57.42:857][887]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-15.57.42:857][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-15.57.42:857][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-15.57.42:857][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-15.57.42:858][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-15.57.42:858][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-15.57.42:858][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-15.57.42:869][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-15.57.42:869][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-15.57.42:869][887]LogInit: FAudioDevice initialized.
+[2022.06.20-15.57.42:869][887]LogAudio: Display: Audio Device (ID: 13) registered with world 'Dyslexia'.
+[2022.06.20-15.57.42:875][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.57.42:909][887]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-15.57.42:911][887]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-11.57.42
+[2022.06.20-15.57.42:911][887]LogWorld: Bringing up level for play took: 0.001491
+[2022.06.20-15.57.42:911][887]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.06.20-15.57.42:919][887]PIE: Server logged in
+[2022.06.20-15.57.42:921][887]PIE: Play in editor total start time 0.094 seconds.
+[2022.06.20-15.57.42:966][889]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-15.57.44:830][954]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-15.57.44:830][954]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-15.57.52:058][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-15.57.52:058][524]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-15.57.52:058][524]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-15.57.52:083][524]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.57.52:083][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.52:095][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-15.57.52:107][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.52:120][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.52:121][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-15.57.52:136][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.06.20-15.57.52:170][525]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.06.20-15.57.55:663][915]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-15.57.55:663][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-15.57.58:675][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-15.58.46:444][175]LogSlate: Window 'Material Baking Options' being destroyed
+[2022.06.20-15.58.46:855][219]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-15.58.54:848][ 54]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.58.54:854][ 54]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.58.54:855][ 54]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.58.54:885][ 56]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.58.54:885][ 56]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.58.54:885][ 56]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.58.55:602][ 89]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.06.20-15.58.55:626][ 90]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-15.58.55:744][ 95]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.06.20-15.58.55:816][ 98]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.06.20-15.58.55:892][100]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.06.20-15.58.55:935][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-15.58.56:460][137]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.58.56:460][137]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.58.56:460][137]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.58.56:460][137]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.59.00:794][636]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.00:800][636]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.59.00:813][637]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.59.01:558][680]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.59.01:558][680]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.59.01:558][680]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.59.01:558][680]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.59.10:117][647]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.59.10:122][647]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.59.10:122][647]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.10:140][648]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.59.10:140][648]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.59.10:140][648]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.59.10:785][675]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.06.20-15.59.10:785][675]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-15.59.10:785][675]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.06.20-15.59.10:808][676]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.06.20-15.59.11:031][686]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.06.20-15.59.11:057][687]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.06.20-15.59.11:555][721]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.59.11:555][721]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.59.11:555][721]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.59.11:555][721]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.59.14:138][999]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.59.14:736][ 55]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.59.15:291][105]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.59.17:354][320]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.59.19:370][523]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.20-15.59.23:851][ 25]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.59.23:857][ 25]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.59.23:858][ 25]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.23:875][ 26]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.59.23:875][ 26]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.59.23:875][ 26]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.59.24:501][ 52]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.06.20-15.59.24:501][ 52]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2022.06.20-15.59.24:523][ 53]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.59.24:544][ 54]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.06.20-15.59.24:723][ 62]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.20-15.59.24:750][ 63]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.20-15.59.25:339][ 96]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.59.25:339][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.59.25:339][ 96]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.59.25:339][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-15.59.33:788][ 66]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-15.59.33:793][ 66]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-15.59.33:794][ 66]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-15.59.33:812][ 67]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-15.59.33:812][ 67]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-15.59.33:812][ 67]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-15.59.34:461][ 94]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.06.20-15.59.34:461][ 94]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-15.59.34:483][ 95]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.06.20-15.59.34:483][ 95]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.06.20-15.59.34:681][104]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.06.20-15.59.34:758][107]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.06.20-15.59.35:312][142]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-15.59.35:312][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-15.59.35:312][142]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-15.59.35:312][142]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.00.46:439][680]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.00.46:447][680]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.00.46:449][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-16.00.46:491][682]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.00.46:491][682]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.00.46:491][682]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.00.47:224][711]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.06.20-16.00.47:533][730]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.00.47:533][730]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.00.47:533][730]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.00.47:533][730]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.00.50:900][119]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.00.50:910][119]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.00.50:913][119]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.00.50:943][120]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.00.50:943][120]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.00.50:943][120]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.00.51:562][142]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.06.20-16.00.52:026][174]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.00.52:026][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.00.52:026][174]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.00.52:026][174]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.01.01:340][205]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-16.01.01:748][205]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.01.01:779][205]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.01.01:788][205]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.01.01:799][205]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-16.01.01:799][205]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-16.01.01:799][205]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-16.01.01:823][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.06.20-16.01.01:829][205]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-16.01.02:390][205]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.20-16.01.02:390][205]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.06.20-16.01.02:390][205]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.20-16.01.02:719][205]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-16.01.02:719][205]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-16.01.02:719][205]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.20-16.01.02:719][205]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-16.01.02:719][205]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.01.02:736][205]TextureStreamingBuild: Display: Compiling optional shaders took 0.910 seconds.
+[2022.06.20-16.01.02:773][205]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2022.06.20-16.01.03:208][205]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMatAD5758124C50014A83F5DC815903B19B.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-16.01.03:216][205]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-16.01.03:216][205]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-16.01.03:217][205]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.01.03:217][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.01.03:217][205]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.01.03:217][205]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.20-16.01.10:664][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.01.20:295][140]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.01.20:298][140]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.01.20:364][140]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.01.20:367][140]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.01.20:376][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.06.20-16.01.20:380][140]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.01.20:380][140]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.01.20:380][140]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.01.20:380][140]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.01.20:404][140]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.01.20:404][140]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.01.20:404][140]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.01.20:404][140]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.01.20:874][168]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.01.20:875][168]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.01.20:875][168]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.01.20:875][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.01.25:906][747]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.01.25:918][748]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.01.25:918][748]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.01.25:918][748]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.01.25:918][748]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.01.26:260][774]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.01.26:260][774]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.01.26:260][774]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.01.26:260][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.01.27:076][857]LogMaterialEditor: Saving and Compiling material Postprocessvolume_M
+[2022.06.20-16.01.27:483][857]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.01.27:500][857]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.01.27:500][857]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.01.27:500][857]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.01.27:500][857]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.01.27:506][857]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.01.27:508][857]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.01.27:508][857]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.01.27:508][857]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.01.27:508][857]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.01.27:526][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.06.20-16.01.27:527][857]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.01.27:543][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.20-16.01.27:883][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Materials/Postprocessvolume_M" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset" SILENT=true
+[2022.06.20-16.01.27:887][857]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M652D881F42715A2605E06BBD698818C0.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
+[2022.06.20-16.01.27:894][857]AssetCheck: New page: Asset Save: Postprocessvolume_M
+[2022.06.20-16.01.27:894][857]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.01.36:733][802]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-16.01.40:835][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.01.54:350][857]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-16.02.07:752][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.02.08:909][581]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-16.02.11:414][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.02.15:456][340]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-16.02.32:085][182]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.32:086][182]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.20-16.02.32:086][182]LogMaterial: Display: 	(Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.02.32:086][182]LogMaterial: Display: 	(Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.02.32:088][182]MaterialEditorStats: Error: [SM5] (Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.02.32:088][182]MaterialEditorStats: Error: [SM5] (Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.02.35:585][548]LogEditorTransaction: Undo Create Pin Link
+[2022.06.20-16.02.35:586][548]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.35:593][548]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.02.35:608][548]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.02.35:611][548]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.35:817][552]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2022.06.20-16.02.35:945][554]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.06.20-16.02.36:295][564]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.02.36:318][565]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-16.02.36:340][566]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.02.36:682][584]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.02.36:682][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.02.36:682][584]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.02.36:682][584]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.02.36:815][596]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.02.36:815][596]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.02.36:815][596]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.02.36:815][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.02.51:116][156]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.51:119][156]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.51:139][157]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.02.51:139][157]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.02.51:139][157]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.02.51:139][157]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.02.51:463][182]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.02.51:463][182]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.02.51:463][182]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.02.51:463][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.02.56:915][771]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.56:918][771]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.02.56:936][773]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.02.56:936][773]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.02.56:936][773]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.02.56:936][773]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.02.57:262][804]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.02.57:262][804]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.02.57:262][804]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.02.57:262][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.03.12:427][485]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.03.12:428][485]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.20-16.03.12:428][485]LogMaterial: Display: 	(Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.03.12:428][485]LogMaterial: Display: 	(Node If) Attempting to perform arithmetic on non-numeric types: float unknown
+[2022.06.20-16.03.12:428][485]LogMaterial: Display: 	(Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.03.12:429][485]MaterialEditorStats: Error: [SM5] (Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.03.12:429][485]MaterialEditorStats: Error: [SM5] (Node If) Attempting to perform arithmetic on non-numeric types: float unknown
+[2022.06.20-16.03.12:429][485]MaterialEditorStats: Error: [SM5] (Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.03.14:570][718]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.03.14:574][718]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.03.14:574][718]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.03.14:574][718]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.03.14:574][718]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.03.14:906][743]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.03.14:906][743]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.03.14:906][743]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.03.14:906][743]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.03.50:394][613]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.03.50:394][613]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.20-16.03.50:394][613]LogMaterial: Display: 	(Node If) Arithmetic between types float3 and float4 are undefined
+[2022.06.20-16.03.50:394][613]LogMaterial: Display: 	(Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.03.50:395][613]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.03.50:396][613]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.20-16.03.50:396][613]LogMaterial: Display: 	(Node If) Arithmetic between types float3 and float4 are undefined
+[2022.06.20-16.03.50:396][613]LogMaterial: Display: 	(Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.03.50:396][613]MaterialEditorStats: Error: [SM5] (Node If) Arithmetic between types float3 and float4 are undefined
+[2022.06.20-16.03.50:396][613]MaterialEditorStats: Error: [SM5] (Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.04.01:605][845]LogEditorTransaction: Undo Edit Value
+[2022.06.20-16.04.01:606][845]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.04.01:608][845]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.04.01:613][845]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.04.01:613][845]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.04.01:613][845]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.04.01:613][845]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.04.01:614][845]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.06.20-16.04.01:687][846]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.06.20-16.04.01:875][849]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2022.06.20-16.04.01:959][850]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.06.20-16.04.02:332][861]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.04.02:355][862]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-16.04.02:355][862]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.04.02:687][879]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.04.02:687][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.04.02:687][879]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.04.02:687][879]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.04.02:749][885]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.04.02:749][885]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.04.02:749][885]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.04.02:749][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.04.02:949][904]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.04.02:982][905]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.04.02:982][905]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.04.02:982][905]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.04.02:982][905]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.04.03:295][933]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.04.03:295][933]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.04.03:295][933]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.04.03:295][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.04.10:569][751]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.04.10:569][751]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.20-16.04.10:569][751]LogMaterial: Display: 	(Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.04.10:569][751]LogMaterial: Display: 	(Node If) Attempting to perform arithmetic on non-numeric types: float unknown
+[2022.06.20-16.04.10:569][751]LogMaterial: Display: 	(Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.04.10:574][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.06.20-16.04.10:580][751]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.04.10:581][751]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.04.10:581][751]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.04.10:581][751]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.04.10:581][751]MaterialEditorStats: Error: [SM5] (Node If) Arithmetic between types float4 and float3 are undefined
+[2022.06.20-16.04.10:581][751]MaterialEditorStats: Error: [SM5] (Node If) Attempting to perform arithmetic on non-numeric types: float unknown
+[2022.06.20-16.04.10:581][751]MaterialEditorStats: Error: [SM5] (Node If) Cannot force a cast between non-numeric types.
+[2022.06.20-16.04.18:416][581]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.04.18:424][581]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.04.18:424][581]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.04.18:424][581]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.04.18:424][581]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.04.18:425][581]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.06.20-16.04.18:428][581]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.04.18:428][581]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.04.18:428][581]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.04.18:428][581]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.04.18:905][607]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.04.18:905][607]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.04.18:905][607]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.04.18:905][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.04.55:795][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.20-16.04.55:797][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.20-16.04.55:824][564]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_Auto3909495F847222035196EBEBCCAC4A31F.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto3.umap'
+[2022.06.20-16.04.55:825][564]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.045
+[2022.06.20-16.04.55:825][564]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.06.20-16.04.55:826][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint] ([1] browsable assets)...
+[2022.06.20-16.04.55:833][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint]
+[2022.06.20-16.04.55:833][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint]
+[2022.06.20-16.04.55:842][564]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardback3_Blueprint_AC9296214C630EC9BE1EDA93031A9951.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint_Auto3.uasset'
+[2022.06.20-16.04.55:843][564]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.06.20-16.07.50:961][410]LogMaterialEditor: Saving and Compiling material Postprocessvolume_M
+[2022.06.20-16.07.51:370][410]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.07.51:379][410]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.07.51:389][410]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.07.51:389][410]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.07.51:389][410]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.07.51:398][410]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.07.51:400][410]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.07.51:400][410]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.07.51:400][410]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.07.51:400][410]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.07.51:419][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.06.20-16.07.51:420][410]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.07.51:436][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.20-16.07.51:857][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Materials/Postprocessvolume_M" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset" SILENT=true
+[2022.06.20-16.07.51:861][410]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M2EB20981470A70DA38568C8B337CE485.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
+[2022.06.20-16.07.51:868][410]AssetCheck: New page: Asset Save: Postprocessvolume_M
+[2022.06.20-16.07.51:868][410]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
