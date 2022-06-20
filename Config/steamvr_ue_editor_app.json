@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.dyslexia-simulation-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Jiahui's stuff/Github_Repos/Dyslexia/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/GitRepo/Dyslexia/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
