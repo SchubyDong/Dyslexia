@@ -3395,3 +3395,1713 @@ MotionControllerPawn_C.ReceiveBeginPlay
 [2022.06.20-16.07.51:861][410]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M2EB20981470A70DA38568C8B337CE485.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
 [2022.06.20-16.07.51:868][410]AssetCheck: New page: Asset Save: Postprocessvolume_M
 [2022.06.20-16.07.51:868][410]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.14.56:283][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.20-16.14.56:284][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.20-16.14.56:312][729]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_Auto4D4C364E04335D1B28DFFE09FC0E71DF3.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto4.umap'
+[2022.06.20-16.14.56:313][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.045
+[2022.06.20-16.14.56:313][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.06.20-16.18.33:940][494]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.18.33:955][494]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.18.33:967][495]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.18.34:844][544]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.18.34:844][544]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.18.34:844][544]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.18.34:844][544]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.18.36:606][739]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-16.18.37:020][739]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.18.37:049][739]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.18.37:058][739]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.18.37:070][739]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-16.18.37:070][739]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-16.18.37:070][739]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-16.18.37:089][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.20-16.18.37:095][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-16.18.37:657][739]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.06.20-16.18.37:657][739]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.18.37:657][739]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.20-16.18.37:976][739]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-16.18.37:976][739]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.06.20-16.18.37:976][739]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.20-16.18.37:976][739]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-16.18.37:976][739]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.18.37:997][739]TextureStreamingBuild: Display: Compiling optional shaders took 0.908 seconds.
+[2022.06.20-16.18.38:021][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.06.20-16.18.38:456][739]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMat80C89726496CAD069ADBA09E77E447BC.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-16.18.38:466][739]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-16.18.38:466][739]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-16.18.38:467][739]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.18.38:467][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.18.38:467][739]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.18.38:467][739]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.20-16.18.52:560][218]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.18.52:573][219]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.18.52:573][219]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.18.52:573][219]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.18.52:573][219]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.18.52:903][243]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.18.52:903][243]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.18.52:903][243]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.18.52:903][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.18.53:745][327]LogMaterialEditor: Saving and Compiling material Postprocessvolume_M
+[2022.06.20-16.18.54:157][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.18.54:178][327]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.18.54:178][327]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.18.54:178][327]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.18.54:179][327]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.18.54:188][327]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.18.54:190][327]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.18.54:190][327]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.18.54:190][327]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.18.54:190][327]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.18.54:207][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.20-16.18.54:208][327]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.18.54:223][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.20-16.18.54:556][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Materials/Postprocessvolume_M" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset" SILENT=true
+[2022.06.20-16.18.54:560][327]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M39525E2748A746D472C3E3AF8ABA0D9E.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
+[2022.06.20-16.18.54:569][327]AssetCheck: New page: Asset Save: Postprocessvolume_M
+[2022.06.20-16.18.54:569][327]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.18.57:258][624]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.18.57:262][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.18.57:262][624]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:18:57 AM)
+[2022.06.20-16.18.57:262][624]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.18.57:268][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005844s)
+[2022.06.20-16.18.57:269][624]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.18.57:269][624]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2022.06.20-16.18.57:269][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006818s)
+[2022.06.20-16.18.57:284][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.20-16.18.57:284][624]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.18.57:284][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.18.57:284][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.18.57:285][624]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.18.57:285][624]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.18.57:288][624]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.18.57:288][624]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.18.57:295][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.18.57:295][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.18.57:307][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.18.57:307][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.18.57:307][624]LogInit: FAudioDevice initialized.
+[2022.06.20-16.18.57:307][624]LogAudio: Display: Audio Device (ID: 14) registered with world 'Dyslexia'.
+[2022.06.20-16.18.57:311][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.18.57:348][624]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.18.57:350][624]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.18.57
+[2022.06.20-16.18.57:350][624]LogWorld: Bringing up level for play took: 0.001581
+[2022.06.20-16.18.57:350][624]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.06.20-16.18.57:358][624]PIE: Server logged in
+[2022.06.20-16.18.57:360][624]PIE: Play in editor total start time 0.098 seconds.
+[2022.06.20-16.18.57:408][626]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.18.59:251][731]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.18.59:251][731]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.19.13:371][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.19.13:371][997]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.19.13:403][997]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.19.13:433][997]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.19.13:433][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.19.13:441][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.19.13:456][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.19.13:470][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.19.13:470][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.19.13:485][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.06.20-16.19.13:506][998]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.06.20-16.19.23:852][112]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.23:866][112]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.19.23:879][113]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.19.23:880][113]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.19.23:880][113]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.19.23:880][113]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.19.24:759][163]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.19.24:759][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.19.24:759][163]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.19.24:759][163]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.19.44:037][229]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.44:045][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-16.19.44:049][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.19.44:077][230]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.19.44:664][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-16.19.44:686][256]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-16.19.44:687][256]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.20-16.19.44:815][262]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-16.19.44:901][266]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.20-16.19.45:600][324]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.19.45:600][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.19.45:600][324]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.19.45:600][324]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.19.47:164][492]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.19.47:173][492]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.19.47:174][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-16.19.47:187][492]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.19.47:187][492]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.19.47:187][492]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.19.47:188][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.20-16.19.47:807][512]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-16.19.47:831][513]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-16.19.47:885][513]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.06.20-16.19.47:885][513]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.20-16.19.47:931][516]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.06.20-16.19.48:649][568]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.48:657][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.19.48:661][568]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.19.49:334][591]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.06.20-16.19.49:638][608]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.19.49:638][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.19.49:638][608]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.19.49:638][608]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.19.54:455][106]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.54:461][106]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.19.54:474][107]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.19.55:221][148]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.19.55:221][148]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.19.55:221][148]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.19.55:221][148]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.19.57:043][340]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.57:048][340]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.19.57:061][341]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.19.57:804][381]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.19.57:804][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.19.57:804][381]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.19.57:804][381]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.20.03:164][929]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.03:208][930]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.20.03:209][930]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.20.04:113][993]MaterialEditorStats: Base pass shader: 175 instructions
+[2022.06.20-16.20.04:113][993]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2022.06.20-16.20.04:113][993]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.20.04:113][993]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.20.05:696][161]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.20.05:707][161]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.20.05:708][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-16.20.05:729][162]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.20.05:729][162]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.20.05:729][162]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.20.06:355][184]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.06.20-16.20.06:847][222]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.20.06:847][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.20.06:847][222]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.20.06:847][222]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.20.07:428][280]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-16.20.07:834][280]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.20.07:852][280]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.20.07:868][280]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.07:879][280]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-16.20.07:879][280]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-16.20.07:879][280]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-16.20.07:898][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.06.20-16.20.07:904][280]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-16.20.08:467][280]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.20-16.20.08:467][280]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.06.20-16.20.08:467][280]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.20-16.20.08:852][280]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-16.20.08:852][280]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-16.20.08:852][280]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.20-16.20.08:852][280]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-16.20.08:852][280]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.20.08:856][280]TextureStreamingBuild: Display: Compiling optional shaders took 0.956 seconds.
+[2022.06.20-16.20.08:883][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.06.20-16.20.09:351][280]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMatA56683BC4E8B4DE6753C35908FF59D86.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-16.20.09:359][280]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-16.20.09:359][280]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-16.20.09:359][280]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.20.09:359][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.20.09:359][280]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.20.09:359][280]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.20-16.20.12:380][592]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.12:385][592]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.20.12:401][593]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.20.13:181][634]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.20.13:181][634]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.20.13:181][634]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.20.13:181][634]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.20.52:614][ 89]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.20-16.20.53:600][ 89]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.20-16.20.55:187][258]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.20-16.20.55:203][258]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.20-16.20.56:644][429]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2022.06.20-16.20.56:644][429]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.20-16.21.20:784][271]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.06.20-16.21.20:792][271]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.06.20-16.21.21:506][353]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.06.20-16.21.21:509][353]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.06.20-16.21.21:659][364]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Dyslexia/UI/NewWidgetBlueprint.NewWidgetBlueprint
+[2022.06.20-16.23.08:684][172]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2022.06.20-16.23.08:732][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.06.20-16.23.11:062][417]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn2)
+[2022.06.20-16.23.12:031][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2022.06.20-16.23.32:674][300]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Blur_Effect
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.SKEL_Blur_Effect_C' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.Blur_Effect_C' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.Blur_Effect:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.Blur_Effect:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.Blur_Effect:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.SKEL_Blur_Effect_C:PreConstruct' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.SKEL_Blur_Effect_C:Construct' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:699][300]LogMetaData: Removing '/Game/Dyslexia/UI/Blur_Effect.SKEL_Blur_Effect_C:Tick' ref from Metadata '/Game/Dyslexia/UI/NewWidgetBlueprint.PackageMetaData'
+[2022.06.20-16.23.32:715][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/UI/Blur_Effect" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/UI/Blur_Effect.uasset" SILENT=true
+[2022.06.20-16.23.32:719][300]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Blur_Effect3056B1C045DA759B18EA96AFD90A3B4B.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/UI/Blur_Effect.uasset'
+[2022.06.20-16.23.32:797][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.06.20-16.23.32:825][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.20-16.23.32:847][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.20-16.23.32:881][300]LogLinker: Warning: Failed to load '/Game/Dyslexia/UI/NewWidgetBlueprint': Can't find file.
+[2022.06.20-16.23.32:881][300]LogLinker: Warning: Failed to load '/Game/Dyslexia/UI/NewWidgetBlueprint': Can't find file.
+[2022.06.20-16.23.32:881][300]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Dyslexia/UI/NewWidgetBlueprint.NewWidgetBlueprint'
+[2022.06.20-16.23.32:881][300]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2022.06.20-16.23.32:888][300]AssetCheck: New page: Asset Save: Blur_Effect
+[2022.06.20-16.23.32:888][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/Dyslexia/UI/Blur_Effect.Blur_Effect
+[2022.06.20-16.23.36:180][566]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.23.36:180][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.23.36:189][566]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.23.36:189][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.23.38:998][769]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.20-16.23.52:614][804]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.20-16.23.52:694][804]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.23.52:704][804]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.23.52:721][804]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.23.52:990][808]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.06.20-16.23.53:578][823]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.23.53:578][823]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.23.53:578][823]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.23.53:578][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.23.53:741][833]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.23.53:741][833]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.23.53:741][833]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.23.53:741][833]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.23.59:322][210]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Dyslexia/UI/Blur_Effect.Blur_Effect
+[2022.06.20-16.24.14:925][723]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.24.15:000][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.20-16.24.55:895][919]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.24.55:938][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.20-16.25.05:448][814]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.25.05:494][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.06.20-16.25.08:650][ 92]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.25.08:655][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.20-16.25.08:656][ 92]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2022.06.20-16.25.08:703][ 92]LogPlayLevel: [PlayLevel] Compiling quran1_book_hardback3_Blueprint before play...
+[2022.06.20-16.25.08:727][ 92]LogPlayLevel: [PlayLevel] Compiling Dyslexia before play...
+[2022.06.20-16.25.08:768][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.20-16.25.08:769][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (3 blueprints)
+[2022.06.20-16.25.08:770][ 92]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:25:08 AM)
+[2022.06.20-16.25.08:770][ 92]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.25.08:774][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005658s)
+[2022.06.20-16.25.08:775][ 92]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.25.08:775][ 92]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2022.06.20-16.25.08:775][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006602s)
+[2022.06.20-16.25.08:798][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.20-16.25.08:799][ 92]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.25.08:799][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.25.08:799][ 92]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.25.08:799][ 92]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.25.08:801][ 92]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.25.08:801][ 92]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.25.08:808][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.25.08:819][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.25.08:819][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.25.08:819][ 92]LogInit: FAudioDevice initialized.
+[2022.06.20-16.25.08:819][ 92]LogAudio: Display: Audio Device (ID: 15) registered with world 'Dyslexia'.
+[2022.06.20-16.25.08:824][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.25.08:860][ 92]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.25.08:862][ 92]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.25.08
+[2022.06.20-16.25.08:862][ 92]LogWorld: Bringing up level for play took: 0.001574
+[2022.06.20-16.25.08:862][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.06.20-16.25.08:865][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:865][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:865][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:865][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:865][ 92]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2022.06.20-16.25.08:866][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:866][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:866][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:866][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:866][ 92]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.25.08:867][ 92]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2022.06.20-16.25.08:871][ 92]PIE: Server logged in
+[2022.06.20-16.25.08:872][ 92]PIE: Play in editor total start time 0.217 seconds.
+[2022.06.20-16.25.08:925][ 94]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.25.10:647][247]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.25.10:647][247]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.25.25:992][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.25.25:992][624]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.25.26:065][624]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.25.26:093][624]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.25.26:094][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.25.26:104][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.25.26:112][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.25.26:133][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.25.26:134][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.25.26:150][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.20-16.25.26:184][625]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.06.20-16.25.29:388][810]LogSlate: Window 'Message' being destroyed
+[2022.06.20-16.25.29:398][810]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.20-16.25.36:189][386]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.25.36:233][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.20-16.26.08:159][ 87]LogEditorTransaction: Undo Move Anchor
+[2022.06.20-16.26.08:180][ 87]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.26.08:186][ 87]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.20-16.26.08:191][ 87]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.20-16.26.08:512][ 92]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.06.20-16.26.09:017][105]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.26.09:017][105]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.26.09:017][105]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.26.09:017][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.26.09:196][115]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-16.26.09:196][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-16.26.09:196][115]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.26.09:196][115]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-16.26.21:358][676]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.26.21:407][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.06.20-16.26.47:884][519]BlueprintLog: New page: Compile MotionControllerPawn
+[2022.06.20-16.26.48:002][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.20-16.26.49:329][622]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.26.49:433][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.06.20-16.27.02:427][465]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.27.02:512][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.06.20-16.27.12:015][160]BlueprintLog: New page: Compile MotionControllerPawn
+[2022.06.20-16.27.12:102][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.06.20-16.27.14:596][349]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.27.14:601][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.27.14:601][349]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:27:14 AM)
+[2022.06.20-16.27.14:601][349]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.27.14:607][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006254s)
+[2022.06.20-16.27.14:608][349]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.27.14:608][349]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2022.06.20-16.27.14:608][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007514s)
+[2022.06.20-16.27.14:634][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.06.20-16.27.14:636][349]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.27.14:636][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.27.14:636][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.27.14:637][349]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.27.14:637][349]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.27.14:639][349]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.27.14:639][349]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.27.14:645][349]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.27.14:645][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.27.14:646][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.27.14:646][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.27.14:646][349]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.27.14:646][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.27.14:646][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.27.14:657][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.27.14:657][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.27.14:657][349]LogInit: FAudioDevice initialized.
+[2022.06.20-16.27.14:657][349]LogAudio: Display: Audio Device (ID: 16) registered with world 'Dyslexia'.
+[2022.06.20-16.27.14:662][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.27.14:699][349]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.27.14:701][349]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.27.14
+[2022.06.20-16.27.14:701][349]LogWorld: Bringing up level for play took: 0.001573
+[2022.06.20-16.27.14:701][349]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.06.20-16.27.14:704][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:704][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:704][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:704][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:705][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:705][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:705][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:705][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:706][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:706][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:706][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:706][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:707][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:707][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:707][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:707][349]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.27.14:711][349]PIE: Server logged in
+[2022.06.20-16.27.14:713][349]PIE: Play in editor total start time 0.113 seconds.
+[2022.06.20-16.27.14:758][350]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.27.16:591][513]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.27.16:591][513]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.27.36:779][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.27.36:779][292]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.27.36:840][292]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.27.36:863][292]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.36:864][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.36:872][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.27.36:881][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.36:905][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.27.36:906][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.27.36:906][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.27.36:923][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.20-16.27.36:951][293]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.06.20-16.27.39:184][370]LogSlate: Window 'Message' being destroyed
+[2022.06.20-16.27.39:187][370]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.20-16.27.39:595][370]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-16.27.39:620][370]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-16.27.39:629][370]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-16.27.39:673][370]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-16.27.39:673][370]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-16.27.39:673][370]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-16.27.39:673][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.06.20-16.27.39:679][370]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-16.27.40:736][370]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-16.27.40:770][370]TextureStreamingBuild: Display: Compiling optional shaders took 1.097 seconds.
+[2022.06.20-16.27.40:817][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.20-16.27.42:403][370]LogSlate: Window 'Message' being destroyed
+[2022.06.20-16.27.42:406][370]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.20-16.27.42:811][370]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.20-16.27.42:824][370]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.27.42:824][370]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.27.42:824][370]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.27.42:824][370]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.27.42:829][370]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.27.42:831][370]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.27.42:831][370]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.27.42:831][370]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.27.42:831][370]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.27.42:859][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.20-16.27.42:859][370]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.27.42:885][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.06.20-16.27.42:900][370]LogSlate: Window 'Blur_Effect' being destroyed
+[2022.06.20-16.27.42:901][370]LogSlate: Window 'Blur_Effect' being destroyed
+[2022.06.20-16.27.42:916][370]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.42:917][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.42:953][370]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.42:953][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.43:049][370]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.43:049][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.43:081][370]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.20-16.27.43:081][370]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.43:081][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.43:135][370]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.43:135][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.43:143][370]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.27.43:143][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.27.45:707][587]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn2)
+[2022.06.20-16.27.56:970][672]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.27.56:975][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.27.56:975][672]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:27:56 AM)
+[2022.06.20-16.27.56:975][672]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.27.56:981][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005911s)
+[2022.06.20-16.27.56:981][672]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.27.56:981][672]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2022.06.20-16.27.56:981][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006749s)
+[2022.06.20-16.27.57:023][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.06.20-16.27.57:028][672]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.27.57:028][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.27.57:028][672]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.27.57:028][672]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.27.57:031][672]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.27.57:031][672]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.27.57:037][672]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.27.57:037][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.27.57:037][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.27.57:037][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.27.57:038][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.27.57:038][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.27.57:038][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.27.57:049][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.27.57:049][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.27.57:049][672]LogInit: FAudioDevice initialized.
+[2022.06.20-16.27.57:049][672]LogAudio: Display: Audio Device (ID: 17) registered with world 'Dyslexia'.
+[2022.06.20-16.27.57:054][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.27.57:084][672]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.27.57:086][672]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.27.57
+[2022.06.20-16.27.57:086][672]LogWorld: Bringing up level for play took: 0.001651
+[2022.06.20-16.27.57:086][672]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.06.20-16.27.57:093][672]PIE: Server logged in
+[2022.06.20-16.27.57:094][672]PIE: Play in editor total start time 0.12 seconds.
+[2022.06.20-16.27.57:135][673]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.27.58:972][836]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.27.58:972][836]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.28.11:831][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.28.11:831][948]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.28.11:870][948]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.28.11:913][948]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.28.11:913][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.28.11:920][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.28.11:928][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.28.11:950][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.28.11:951][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.28.11:983][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.06.20-16.28.12:007][949]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.06.20-16.28.16:850][414]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9db443e0-5c25-44de-befe-d33005990dfa}.
+[2022.06.20-16.28.16:850][414]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.20-16.28.16:892][414]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.28.16:892][414]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.28.21:824][889]Cmd: DELETE
+[2022.06.20-16.28.21:824][889]Cmd: ACTOR DELETE
+[2022.06.20-16.28.21:855][889]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2022.06.20-16.28.21:877][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.20-16.28.21:881][889]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.06.20-16.28.23:216][ 43]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.28.23:221][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.28.23:221][ 43]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:28:23 AM)
+[2022.06.20-16.28.23:258][ 43]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.28.23:264][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005690s)
+[2022.06.20-16.28.23:265][ 43]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.28.23:265][ 43]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.06.20-16.28.23:265][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006603s)
+[2022.06.20-16.28.23:279][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.20-16.28.23:280][ 43]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.28.23:280][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.28.23:280][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.28.23:280][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.28.23:283][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.28.23:283][ 43]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.28.23:289][ 43]LogAudioMixer: Display: Using Audio Device VIVE Pro (NVIDIA High Definition Audio)
+[2022.06.20-16.28.23:289][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.28.23:289][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.28.23:289][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.28.23:289][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.28.23:290][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.28.23:290][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.28.23:300][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.28.23:301][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.28.23:301][ 43]LogInit: FAudioDevice initialized.
+[2022.06.20-16.28.23:301][ 43]LogAudio: Display: Audio Device (ID: 18) registered with world 'Dyslexia'.
+[2022.06.20-16.28.23:306][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.28.23:340][ 43]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.28.23:342][ 43]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.28.23
+[2022.06.20-16.28.23:342][ 43]LogWorld: Bringing up level for play took: 0.001497
+[2022.06.20-16.28.23:342][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.06.20-16.28.23:348][ 43]PIE: Server logged in
+[2022.06.20-16.28.23:349][ 43]PIE: Play in editor total start time 0.128 seconds.
+[2022.06.20-16.28.23:381][ 45]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.28.25:214][210]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.28.25:214][210]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.28.43:845][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.28.43:845][883]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.28.43:881][883]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.28.43:909][883]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.28.43:910][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.28.43:916][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.28.43:920][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.28.43:935][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.28.43:936][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.28.43:952][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.06.20-16.28.43:970][884]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.06.20-16.28.45:769][ 92]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn2)
+[2022.06.20-16.28.47:647][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2022.06.20-16.29.00:472][257]BlueprintLog: New page: Compile MotionControllerPawn
+[2022.06.20-16.29.00:535][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.20-16.29.01:331][316]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.29.01:336][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.29.01:336][316]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:29:01 AM)
+[2022.06.20-16.29.01:358][316]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.29.01:364][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005755s)
+[2022.06.20-16.29.01:365][316]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.29.01:365][316]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2022.06.20-16.29.01:365][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007038s)
+[2022.06.20-16.29.01:382][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.20-16.29.01:384][316]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.29.01:384][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.29.01:384][316]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.29.01:384][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.29.01:387][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.29.01:387][316]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Using Audio Device VIVE Pro (NVIDIA High Definition Audio)
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.29.01:393][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.29.01:393][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.29.01:404][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.29.01:404][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.29.01:404][316]LogInit: FAudioDevice initialized.
+[2022.06.20-16.29.01:404][316]LogAudio: Display: Audio Device (ID: 19) registered with world 'Dyslexia'.
+[2022.06.20-16.29.01:409][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.29.01:455][316]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.29.01:457][316]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.29.01
+[2022.06.20-16.29.01:457][316]LogWorld: Bringing up level for play took: 0.001499
+[2022.06.20-16.29.01:457][316]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.06.20-16.29.01:460][316]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=nan Z=70.000). Resetting to 1.f.
+[2022.06.20-16.29.01:461][316]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=nan Z=70.000). Resetting to 1.f.
+[2022.06.20-16.29.01:464][316]PIE: Server logged in
+[2022.06.20-16.29.01:466][316]PIE: Play in editor total start time 0.13 seconds.
+[2022.06.20-16.29.01:507][317]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.29.03:320][446]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.29.03:320][446]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.29.45:514][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.29.45:514][241]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.29.45:581][241]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.29.45:609][241]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.29.45:609][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.29.45:620][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.29.45:628][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.29.45:646][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.29.45:646][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.29.45:647][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.29.45:662][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.20-16.29.45:718][242]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.06.20-16.29.58:490][594]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Dyslexia/UI/Blur_Effect.Blur_Effect
+[2022.06.20-16.30.13:529][918]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.30.13:620][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.20-16.30.14:121][964]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.30.14:126][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.30.14:126][964]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:30:14 AM)
+[2022.06.20-16.30.14:150][964]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.30.14:156][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005622s)
+[2022.06.20-16.30.14:156][964]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.30.14:156][964]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2022.06.20-16.30.14:156][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006495s)
+[2022.06.20-16.30.14:174][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.20-16.30.14:175][964]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.30.14:175][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.30.14:175][964]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.30.14:175][964]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.30.14:178][964]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.30.14:178][964]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Using Audio Device VIVE Pro (NVIDIA High Definition Audio)
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.30.14:184][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.30.14:184][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.30.14:196][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.30.14:196][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.30.14:196][964]LogInit: FAudioDevice initialized.
+[2022.06.20-16.30.14:196][964]LogAudio: Display: Audio Device (ID: 20) registered with world 'Dyslexia'.
+[2022.06.20-16.30.14:201][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.30.14:250][964]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.30.14:251][964]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.30.14
+[2022.06.20-16.30.14:251][964]LogWorld: Bringing up level for play took: 0.001496
+[2022.06.20-16.30.14:251][964]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.06.20-16.30.14:254][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:254][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:254][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:254][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:255][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:255][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:255][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:255][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.06.20-16.30.14:258][964]PIE: Server logged in
+[2022.06.20-16.30.14:260][964]PIE: Play in editor total start time 0.135 seconds.
+[2022.06.20-16.30.14:288][965]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.30.16:122][128]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.30.16:122][128]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.30.34:397][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.30.34:397][769]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.30.34:453][769]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.30.34:480][769]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.30.34:480][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.30.34:490][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.30.34:498][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.30.34:516][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.30.34:516][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.30.34:517][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.30.34:532][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.20-16.30.34:557][770]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.06.20-16.31.07:890][967]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f789e956-d948-4f3d-b8ca-73f33e2ef380}.
+[2022.06.20-16.31.07:890][967]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.20-16.31.07:921][967]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.31.07:921][967]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.31.11:619][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.06.20-16.31.11:623][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.20-16.31.11:659][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_Auto5DE64343348BCDB5E4C477884F2EA316E.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto5.umap'
+[2022.06.20-16.31.11:663][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.061
+[2022.06.20-16.31.11:663][978]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.06.20-16.31.11:663][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2022.06.20-16.31.11:663][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2022.06.20-16.31.11:709][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/MotionControllerPawn_Auto5F890DC13443E67A09E524B8EAD86E4A4.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto5.uasset'
+[2022.06.20-16.31.11:709][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat] ([1] browsable assets)...
+[2022.06.20-16.31.11:730][978]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat]
+[2022.06.20-16.31.11:730][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat]
+[2022.06.20-16.31.11:734][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMat_Auto5BB6BBB9740CCFBF71287F7A250B93004.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat_Auto5.uasset'
+[2022.06.20-16.31.11:735][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dyslexia/Materials/Postprocessvolume_M] ([1] browsable assets)...
+[2022.06.20-16.31.11:740][978]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M]
+[2022.06.20-16.31.11:740][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/Materials/Postprocessvolume_M]
+[2022.06.20-16.31.11:744][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M_Auto58EA967A448567E26FCF7538B539C61C9.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Materials/Postprocessvolume_M_Auto5.uasset'
+[2022.06.20-16.31.11:744][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint] ([1] browsable assets)...
+[2022.06.20-16.31.11:753][978]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint]
+[2022.06.20-16.31.11:753][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint]
+[2022.06.20-16.31.11:762][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/quran1_book_hardback3_Blueprint_EBCAE94F49FA665E798E8B8C0FDE8139.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint_Auto5.uasset'
+[2022.06.20-16.31.11:762][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dyslexia/UI/Blur_Effect] ([1] browsable assets)...
+[2022.06.20-16.31.11:762][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/UI/Blur_Effect]
+[2022.06.20-16.31.11:762][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/UI/Blur_Effect" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.06.20-16.31.11:768][978]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Blur_Effect_Auto53939CF22435F4E5E09D20CA6FB85193A.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto5.uasset'
+[2022.06.20-16.31.11:769][978]LogFileHelpers: Auto-saving content packages took 0.107
+[2022.06.20-16.32.40:626][601]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.32.40:720][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.06.20-16.32.42:424][755]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.32.42:428][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.32.42:428][755]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:32:42 AM)
+[2022.06.20-16.32.42:428][755]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.32.42:435][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006192s)
+[2022.06.20-16.32.42:435][755]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.32.42:436][755]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2022.06.20-16.32.42:436][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007076s)
+[2022.06.20-16.32.42:454][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.20-16.32.42:455][755]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.32.42:455][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.32.42:455][755]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.32.42:455][755]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.32.42:458][755]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.32.42:458][755]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.32.42:464][755]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.32.42:464][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.32.42:464][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.32.42:464][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.32.42:464][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.32.42:464][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.32.42:465][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.32.42:476][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.32.42:476][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.32.42:476][755]LogInit: FAudioDevice initialized.
+[2022.06.20-16.32.42:476][755]LogAudio: Display: Audio Device (ID: 21) registered with world 'Dyslexia'.
+[2022.06.20-16.32.42:481][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.32.42:524][755]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.32.42:527][755]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.32.42
+[2022.06.20-16.32.42:527][755]LogWorld: Bringing up level for play took: 0.002205
+[2022.06.20-16.32.42:527][755]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.06.20-16.32.42:535][755]PIE: Server logged in
+[2022.06.20-16.32.42:536][755]PIE: Play in editor total start time 0.108 seconds.
+[2022.06.20-16.32.42:564][756]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.32.44:418][923]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.32.44:419][923]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.33.00:935][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.33.00:936][371]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.33.00:964][371]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.33.00:996][371]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.33.00:997][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.33.01:007][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.33.01:016][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.33.01:037][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.33.01:037][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.33.01:038][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.33.01:053][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.20-16.33.01:075][372]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.06.20-16.33.02:538][509]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.33.02:543][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.33.02:543][509]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:33:02 AM)
+[2022.06.20-16.33.02:566][509]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.33.02:572][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006331s)
+[2022.06.20-16.33.02:573][509]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.33.02:573][509]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2022.06.20-16.33.02:573][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007466s)
+[2022.06.20-16.33.02:591][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.06.20-16.33.02:592][509]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.33.02:592][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.33.02:592][509]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.33.02:592][509]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.33.02:595][509]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.33.02:595][509]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.33.02:600][509]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.33.02:600][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.33.02:600][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.33.02:600][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.33.02:601][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.33.02:601][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.33.02:601][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.33.02:601][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.33.02:601][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.33.02:601][509]LogInit: FAudioDevice initialized.
+[2022.06.20-16.33.02:601][509]LogAudio: Display: Audio Device (ID: 22) registered with world 'Dyslexia'.
+[2022.06.20-16.33.02:608][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.33.02:641][509]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.33.02:643][509]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.33.02
+[2022.06.20-16.33.02:643][509]LogWorld: Bringing up level for play took: 0.001531
+[2022.06.20-16.33.02:643][509]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.06.20-16.33.02:649][509]PIE: Server logged in
+[2022.06.20-16.33.02:651][509]PIE: Play in editor total start time 0.109 seconds.
+[2022.06.20-16.33.02:679][510]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.33.04:536][679]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.33.04:536][679]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.33.19:482][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.33.19:482][ 21]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.33.19:511][ 21]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.33.19:546][ 21]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.33.19:547][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.33.19:553][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.33.19:561][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.33.19:582][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.33.19:583][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.33.19:597][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.20-16.33.19:621][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.06.20-16.34.45:172][ 50]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.34.45:263][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.20-16.34.49:714][453]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.34.49:720][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.34.49:720][453]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:34:49 AM)
+[2022.06.20-16.34.49:746][453]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.34.49:752][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006039s)
+[2022.06.20-16.34.49:753][453]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.34.49:753][453]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.06.20-16.34.49:753][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007246s)
+[2022.06.20-16.34.49:772][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.20-16.34.49:772][453]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.34.49:772][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.34.49:772][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.34.49:773][453]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.34.49:773][453]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.34.49:775][453]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.34.49:775][453]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.34.49:781][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.34.49:781][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.34.49:793][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.34.49:793][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.34.49:793][453]LogInit: FAudioDevice initialized.
+[2022.06.20-16.34.49:793][453]LogAudio: Display: Audio Device (ID: 23) registered with world 'Dyslexia'.
+[2022.06.20-16.34.49:798][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.34.49:848][453]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.34.49:850][453]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.34.49
+[2022.06.20-16.34.49:850][453]LogWorld: Bringing up level for play took: 0.001520
+[2022.06.20-16.34.49:850][453]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.06.20-16.34.49:857][453]PIE: Server logged in
+[2022.06.20-16.34.49:858][453]PIE: Play in editor total start time 0.139 seconds.
+[2022.06.20-16.34.49:887][454]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.34.51:710][618]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.34.51:710][618]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.35.01:754][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.35.01:754][517]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.35.01:812][517]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.35.01:846][517]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.35.01:846][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.35.01:853][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.35.01:862][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.35.01:882][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.35.01:882][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.35.01:883][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.35.01:897][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.06.20-16.35.01:922][518]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.06.20-16.41.59:703][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.20-16.41.59:707][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.026
+[2022.06.20-16.41.59:707][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dyslexia/UI/Blur_Effect] ([1] browsable assets)...
+[2022.06.20-16.41.59:707][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/UI/Blur_Effect]
+[2022.06.20-16.41.59:707][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/UI/Blur_Effect" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.06.20-16.41.59:712][901]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Blur_Effect_Auto6059A6C564CA81B69165D8593C86350E2.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto6.uasset'
+[2022.06.20-16.41.59:712][901]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.06.20-16.42.55:513][725]BlueprintLog: New page: Compile MotionControllerPawn
+[2022.06.20-16.42.55:605][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.20-16.42.56:450][783]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.42.56:455][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.42.56:455][783]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:42:56 AM)
+[2022.06.20-16.42.56:485][783]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.42.56:491][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005996s)
+[2022.06.20-16.42.56:492][783]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.42.56:492][783]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2022.06.20-16.42.56:492][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006969s)
+[2022.06.20-16.42.56:511][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.06.20-16.42.56:512][783]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.42.56:512][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.42.56:512][783]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.42.56:512][783]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.42.56:516][783]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.42.56:516][783]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.42.56:522][783]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.42.56:523][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.42.56:523][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.42.56:523][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.42.56:523][783]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.42.56:523][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.42.56:523][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.42.56:534][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.42.56:534][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.42.56:534][783]LogInit: FAudioDevice initialized.
+[2022.06.20-16.42.56:534][783]LogAudio: Display: Audio Device (ID: 24) registered with world 'Dyslexia'.
+[2022.06.20-16.42.56:539][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.42.56:573][783]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.42.56:575][783]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.42.56
+[2022.06.20-16.42.56:575][783]LogWorld: Bringing up level for play took: 0.001566
+[2022.06.20-16.42.56:575][783]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.06.20-16.42.56:583][783]PIE: Server logged in
+[2022.06.20-16.42.56:585][783]PIE: Play in editor total start time 0.131 seconds.
+[2022.06.20-16.42.56:615][784]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.42.58:442][923]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.42.58:442][923]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.43.03:291][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.43.03:291][352]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.43.03:350][352]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.43.03:376][352]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.43.03:376][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.43.03:388][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.43.03:396][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.43.03:418][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.43.03:418][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.43.03:418][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.43.03:433][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.20-16.43.03:483][353]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.06.20-16.43.06:471][574]BlueprintLog: New page: Compile MotionControllerPawn
+[2022.06.20-16.43.06:549][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.20-16.43.07:108][613]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.43.07:113][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.43.07:113][613]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:43:07 AM)
+[2022.06.20-16.43.07:113][613]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.43.07:119][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006232s)
+[2022.06.20-16.43.07:120][613]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.43.07:120][613]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.06.20-16.43.07:120][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007066s)
+[2022.06.20-16.43.07:139][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.20-16.43.07:140][613]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.06.20-16.43.07:140][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.43.07:140][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.43.07:140][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.43.07:140][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.43.07:141][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.43.07:141][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.43.07:141][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.43.07:141][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.43.07:141][613]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.43.07:141][613]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.43.07:143][613]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.43.07:143][613]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.43.07:149][613]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.43.07:150][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.43.07:150][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.43.07:150][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.43.07:150][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.43.07:150][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.43.07:150][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.43.07:161][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.43.07:161][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.43.07:161][613]LogInit: FAudioDevice initialized.
+[2022.06.20-16.43.07:161][613]LogAudio: Display: Audio Device (ID: 25) registered with world 'Dyslexia'.
+[2022.06.20-16.43.07:165][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.43.07:182][613]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.43.07:184][613]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.43.07
+[2022.06.20-16.43.07:184][613]LogWorld: Bringing up level for play took: 0.001518
+[2022.06.20-16.43.07:184][613]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.06.20-16.43.07:192][613]PIE: Server logged in
+[2022.06.20-16.43.07:193][613]PIE: Play in editor total start time 0.081 seconds.
+[2022.06.20-16.43.07:223][614]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.43.09:104][785]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.43.09:105][785]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.43.09:505][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.43.09:505][817]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.43.09:573][817]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.43.09:596][817]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.43.09:596][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.43.09:602][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.43.09:611][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.43.09:632][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.43.09:632][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.43.09:633][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.43.09:647][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.06.20-16.43.09:696][818]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.06.20-16.45.14:771][602]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.20-16.45.14:772][602]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2022.06.20-16.45.15:472][665]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.20-16.45.15:472][665]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.20-16.46.34:135][701]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.46.34:247][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.20-16.46.40:260][234]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.46.40:368][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.20-16.46.57:830][777]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.46.57:937][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.06.20-16.46.59:256][895]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.46.59:261][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.46.59:261][895]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:46:59 AM)
+[2022.06.20-16.46.59:261][895]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.46.59:267][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006273s)
+[2022.06.20-16.46.59:268][895]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.46.59:268][895]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2022.06.20-16.46.59:268][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007317s)
+[2022.06.20-16.46.59:287][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.20-16.46.59:288][895]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.46.59:288][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.46.59:288][895]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.46.59:288][895]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.46.59:291][895]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.46.59:291][895]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.46.59:297][895]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.46.59:297][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.46.59:297][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.46.59:297][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.46.59:298][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.46.59:298][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.46.59:298][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.46.59:309][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.46.59:309][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.46.59:309][895]LogInit: FAudioDevice initialized.
+[2022.06.20-16.46.59:309][895]LogAudio: Display: Audio Device (ID: 26) registered with world 'Dyslexia'.
+[2022.06.20-16.46.59:314][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.46.59:360][895]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.46.59:362][895]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.46.59
+[2022.06.20-16.46.59:362][895]LogWorld: Bringing up level for play took: 0.001497
+[2022.06.20-16.46.59:362][895]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.06.20-16.46.59:369][895]PIE: Server logged in
+[2022.06.20-16.46.59:370][895]PIE: Play in editor total start time 0.11 seconds.
+[2022.06.20-16.46.59:400][896]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.47.01:266][ 17]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.47.01:266][ 17]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.47.03:421][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.47.03:421][194]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.47.03:485][194]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.47.03:516][194]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.47.03:516][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.47.03:523][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.47.03:531][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.47.03:553][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.47.03:553][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.47.03:554][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.47.03:570][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.20-16.47.03:596][195]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.06.20-16.50.39:918][697]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.50.39:923][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.50.39:924][697]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:50:39 AM)
+[2022.06.20-16.50.39:956][697]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.50.39:962][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006451s)
+[2022.06.20-16.50.39:963][697]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.50.39:963][697]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2022.06.20-16.50.39:963][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.007578s)
+[2022.06.20-16.50.39:983][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.06.20-16.50.39:985][697]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.50.39:985][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.50.39:985][697]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.50.39:985][697]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.50.39:988][697]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.50.39:988][697]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.50.39:994][697]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.50.39:995][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.50.39:995][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.50.39:995][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.50.39:996][697]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.50.39:996][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.50.39:996][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.50.40:007][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.50.40:007][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.50.40:007][697]LogInit: FAudioDevice initialized.
+[2022.06.20-16.50.40:007][697]LogAudio: Display: Audio Device (ID: 27) registered with world 'Dyslexia'.
+[2022.06.20-16.50.40:012][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.50.40:046][697]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.50.40:048][697]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.50.40
+[2022.06.20-16.50.40:048][697]LogWorld: Bringing up level for play took: 0.001589
+[2022.06.20-16.50.40:048][697]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.06.20-16.50.40:055][697]PIE: Server logged in
+[2022.06.20-16.50.40:057][697]PIE: Play in editor total start time 0.134 seconds.
+[2022.06.20-16.50.40:089][698]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.50.41:916][830]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.50.41:916][830]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.50.46:625][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.50.46:625][247]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.50.46:690][247]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.50.46:726][247]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.50.46:726][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.50.46:736][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.50.46:745][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.50.46:768][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.50.46:768][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.50.46:769][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.50.46:783][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.20-16.50.46:811][248]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.06.20-16.50.52:266][728]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.50.52:374][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.06.20-16.50.52:914][772]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.50.52:919][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.50.52:919][772]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:50:52 AM)
+[2022.06.20-16.50.52:946][772]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.50.52:952][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005748s)
+[2022.06.20-16.50.52:952][772]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.50.52:952][772]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2022.06.20-16.50.52:952][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006675s)
+[2022.06.20-16.50.52:972][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.20-16.50.52:972][772]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.50.52:972][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.50.52:972][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.50.52:973][772]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.50.52:973][772]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.50.52:974][772]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.50.52:974][772]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.50.52:980][772]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.50.52:981][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.50.52:981][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.50.52:981][772]LogInit: FAudioDevice initialized.
+[2022.06.20-16.50.52:981][772]LogAudio: Display: Audio Device (ID: 28) registered with world 'Dyslexia'.
+[2022.06.20-16.50.52:988][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.50.53:023][772]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.50.53:025][772]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.50.53
+[2022.06.20-16.50.53:025][772]LogWorld: Bringing up level for play took: 0.001521
+[2022.06.20-16.50.53:025][772]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.06.20-16.50.53:032][772]PIE: Server logged in
+[2022.06.20-16.50.53:034][772]PIE: Play in editor total start time 0.115 seconds.
+[2022.06.20-16.50.53:061][773]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.50.54:911][902]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.50.54:911][902]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.50.57:644][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.50.57:644][142]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.50.57:717][142]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.50.57:746][142]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.50.57:747][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.50.57:755][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.50.57:764][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.50.57:786][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.50.57:786][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.50.57:787][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.50.57:802][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.20-16.50.57:829][143]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.06.20-16.51.04:506][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Maps/Dyslexia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.20-16.51.04:523][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.06.20-16.51.04:562][737]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia5D215ACF4D1F1D0CE7B99E8977D423C0.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Maps/Dyslexia.umap'
+[2022.06.20-16.51.04:599][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia_BuiltData" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Maps/Dyslexia_BuiltData.uasset" SILENT=true
+[2022.06.20-16.51.04:609][737]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_BuiltData69C9E9BB4262EC31494462A2A349E56F.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Maps/Dyslexia_BuiltData.uasset'
+[2022.06.20-16.51.04:622][737]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.20-16.51.04:622][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Dyslexia/Maps/Dyslexia_BuiltData.Dyslexia_BuiltData
+[2022.06.20-16.51.04:622][737]LogContentValidation: Display: Validating World /Game/Dyslexia/Maps/Dyslexia.Dyslexia
+[2022.06.20-16.52.59:708][567]BlueprintLog: New page: Compile Blur_Effect
+[2022.06.20-16.52.59:819][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.20-16.53.17:477][114]LogTemp: Repeating last play command: VR Preview
+[2022.06.20-16.53.17:482][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.20-16.53.17:482][114]PIE: New page: PIE session: Dyslexia (Jun 20, 2022, 8:53:17 AM)
+[2022.06.20-16.53.17:516][114]LogPlayLevel: Creating play world package: /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.53.17:521][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005399s)
+[2022.06.20-16.53.17:522][114]LogAIModule: Creating AISystem for world Dyslexia
+[2022.06.20-16.53.17:522][114]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.06.20-16.53.17:522][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dyslexia/Maps/Dyslexia.Dyslexia to /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia (0.006298s)
+[2022.06.20-16.53.17:539][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.20-16.53.17:542][114]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.20-16.53.17:542][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.20-16.53.17:542][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.20-16.53.17:543][114]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.20-16.53.17:543][114]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.20-16.53.17:546][114]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.20-16.53.17:546][114]LogAudioMixer: Display: 1: FrontRight
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Using Audio Device BT-Device (M7 Stereo)
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.20-16.53.17:552][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.20-16.53.17:552][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.20-16.53.17:564][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.20-16.53.17:564][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.20-16.53.17:564][114]LogInit: FAudioDevice initialized.
+[2022.06.20-16.53.17:564][114]LogAudio: Display: Audio Device (ID: 29) registered with world 'Dyslexia'.
+[2022.06.20-16.53.17:570][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.53.17:612][114]LogLoad: Game class is 'GameModeBase'
+[2022.06.20-16.53.17:614][114]LogWorld: Bringing World /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia up for play (max tick rate 0) at 2022.06.20-12.53.17
+[2022.06.20-16.53.17:614][114]LogWorld: Bringing up level for play took: 0.001513
+[2022.06.20-16.53.17:614][114]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.06.20-16.53.17:620][114]PIE: Server logged in
+[2022.06.20-16.53.17:621][114]PIE: Play in editor total start time 0.14 seconds.
+[2022.06.20-16.53.17:649][115]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.20-16.53.19:470][279]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara after construction!
+[2022.06.20-16.53.19:470][279]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia.Dyslexia:PersistentLevel.BP_Dissolution_Niagara_2.Niagara.NiagaraDataInterfaceStaticMesh_0, Mesh: StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.06.20-16.53.27:154][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.20-16.53.27:154][967]LogWorld: BeginTearingDown for /Game/Dyslexia/Maps/UEDPIE_0_Dyslexia
+[2022.06.20-16.53.27:194][967]LogSlate: Window 'Dyslexia Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2022.06.20-16.53.27:225][967]LogWorld: UWorld::CleanupWorld for Dyslexia, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.53.27:225][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.53.27:245][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.20-16.53.27:252][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.53.27:268][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-16.53.27:268][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.53.27:268][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.20-16.53.27:284][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.06.20-16.53.27:305][968]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.06.20-16.55.28:764][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dialog_box2)
+[2022.06.20-16.55.54:179][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.56.05:890][845]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn2)
+[2022.06.20-16.56.06:422][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.06.20-16.56.12:729][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dialog_box2)
+[2022.06.20-16.57.06:490][879]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.57.06:490][879]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.57.06:559][879]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.57.06:561][879]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.57.06:568][879]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.06.20-16.57.06:573][879]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.57.06:573][879]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.57.06:573][879]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.57.06:573][879]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.57.06:603][879]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.57.06:603][879]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.57.06:603][879]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.57.06:603][879]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.57.07:174][910]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.57.07:174][910]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.57.07:174][910]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.57.07:174][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.57.14:478][672]LogSlate: Window 'Postprocessvolume_M' being destroyed
+[2022.06.20-16.57.14:483][672]LogSlate: Window 'Postprocessvolume_M' being destroyed
+[2022.06.20-16.57.14:488][672]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.57.14:488][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.57.14:532][672]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.57.14:532][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.57.14:537][672]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.57.14:537][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.57.14:577][672]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.57.14:577][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-16.57.32:247][549]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.57.32:247][549]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.57.32:365][549]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.57.32:367][549]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.57.32:374][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.06.20-16.57.32:377][549]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.57.32:377][549]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.57.32:377][549]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.57.32:377][549]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.57.32:401][549]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.57.32:401][549]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.57.32:401][549]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.57.32:401][549]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.57.32:950][580]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.57.32:950][580]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.57.32:950][580]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.57.32:950][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.58.02:631][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dialog_box2)
+[2022.06.20-16.58.16:606][245]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.58.16:609][245]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.58.16:621][246]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.58.16:621][246]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.58.16:621][246]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.58.17:019][277]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.58.17:019][277]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.58.17:019][277]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.58.17:019][277]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.20-16.58.17:700][341]LogMaterialEditor: Saving and Compiling material Postprocessvolume_M
+[2022.06.20-16.58.18:107][341]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.58.18:132][341]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.58.18:132][341]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.58.18:132][341]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.58.18:132][341]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.58.18:140][341]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.58.18:142][341]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.58.18:142][341]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.58.18:142][341]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.58.18:142][341]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.58.18:169][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.20-16.58.18:185][341]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.58.18:199][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.06.20-16.58.18:606][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Materials/Postprocessvolume_M" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset" SILENT=true
+[2022.06.20-16.58.18:610][341]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_M32E7A06E40C5E33AAE3B8EB3989C0750.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
+[2022.06.20-16.58.18:619][341]AssetCheck: New page: Asset Save: Postprocessvolume_M
+[2022.06.20-16.58.18:619][341]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.59.02:646][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.59.34:341][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Classroom_no_Window)
+[2022.06.20-16.59.38:744][485]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.59.38:755][486]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.59.38:755][486]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.59.38:755][486]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.59.38:755][486]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.59.39:177][521]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2022.06.20-16.59.39:177][521]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-16.59.39:177][521]MaterialEditorStats: Texture samplers: 1/16
+[2022.06.20-16.59.39:177][521]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.20-16.59.39:707][570]LogMaterialEditor: Saving and Compiling material Postprocessvolume_M
+[2022.06.20-16.59.40:114][570]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.20-16.59.40:133][570]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.20-16.59.40:133][570]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.20-16.59.40:133][570]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.20-16.59.40:133][570]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.20-16.59.40:140][570]LogMaterial: Display: Missing cached shader map for material Postprocessvolume_M, compiling. 
+[2022.06.20-16.59.40:142][570]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.20-16.59.40:142][570]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.06.20-16.59.40:142][570]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.06.20-16.59.40:142][570]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.06.20-16.59.40:161][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.20-16.59.40:176][570]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-16.59.40:189][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.20-16.59.40:573][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Materials/Postprocessvolume_M" FILE="../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset" SILENT=true
+[2022.06.20-16.59.40:577][570]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Postprocessvolume_MA66D551B49EA2948B4CAAE864FE9359E.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Materials/Postprocessvolume_M.uasset'
+[2022.06.20-16.59.40:585][570]AssetCheck: New page: Asset Save: Postprocessvolume_M
+[2022.06.20-16.59.40:585][570]LogContentValidation: Display: Validating Material /Game/Dyslexia/Materials/Postprocessvolume_M.Postprocessvolume_M
+[2022.06.20-16.59.41:114][621]LogSlate: Window 'Postprocessvolume_M' being destroyed
+[2022.06.20-16.59.41:126][621]LogSlate: Window 'Postprocessvolume_M' being destroyed
+[2022.06.20-16.59.41:176][621]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-16.59.41:176][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-17.00.01:453][ 19]LogEditorViewport: Clicking on Actor (LMB): quran1_book_hardback3_Blueprint_C (quran1_book_hardback3_Blueprint)
+[2022.06.20-17.00.02:421][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dyslexia/Dyslexia_Blueprints/Models/quran1_book_hardback3_Blueprint.quran1_book_hardback3_Blueprint
+[2022.06.20-17.01.14:583][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.06.20-17.01.14:591][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/Maps/Dyslexia" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.20-17.01.14:618][211]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Dyslexia_Auto73C34CC18484475D7482F6192426FC034.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/Maps/Dyslexia_Auto7.umap'
+[2022.06.20-17.01.14:619][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dyslexia/Maps/Dyslexia' took 0.054
+[2022.06.20-17.01.14:619][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.06.20-17.01.14:619][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2022.06.20-17.01.14:620][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2022.06.20-17.01.14:666][211]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/MotionControllerPawn_Auto75339944244FCCCC18CD574BDE6FA2594.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto7.uasset'
+[2022.06.20-17.01.14:667][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dyslexia/UI/Blur_Effect] ([1] browsable assets)...
+[2022.06.20-17.01.14:667][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dyslexia/UI/Blur_Effect]
+[2022.06.20-17.01.14:667][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dyslexia/UI/Blur_Effect" FILE="../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.06.20-17.01.14:672][211]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/Blur_Effect_Auto7BBEF5AE84BBFF1C92D56048DCB4D7377.tmp' to '../../../../../GitRepo/Dyslexia/Saved/Autosaves/Game/Dyslexia/UI/Blur_Effect_Auto7.uasset'
+[2022.06.20-17.01.14:673][211]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.06.20-17.02.01:838][738]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-17.02.01:839][738]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.01:907][738]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.01:912][738]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-17.02.01:919][738]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-17.02.01:920][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.20-17.02.01:923][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.20-17.02.01:955][738]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.06.20-17.02.01:955][738]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.06.20-17.02.01:955][738]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.06.20-17.02.02:729][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.20-17.02.02:751][771]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-17.02.02:774][772]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.20-17.02.02:797][773]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.20-17.02.02:839][775]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.06.20-17.02.03:175][790]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-17.02.03:175][790]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-17.02.03:175][790]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-17.02.03:175][790]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-17.02.07:160][218]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.07:166][218]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-17.02.07:179][219]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-17.02.07:948][262]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-17.02.07:948][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-17.02.07:948][262]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-17.02.07:948][262]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-17.02.09:943][482]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-17.02.09:948][482]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-17.02.09:949][482]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.09:967][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.20-17.02.09:967][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.20-17.02.09:967][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.20-17.02.10:568][508]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.20-17.02.10:619][510]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2022.06.20-17.02.10:641][511]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.06.20-17.02.10:641][511]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.06.20-17.02.10:872][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.06.20-17.02.10:925][522]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.06.20-17.02.11:447][555]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-17.02.11:447][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-17.02.11:447][555]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-17.02.11:447][555]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-17.02.15:377][942]LogContentBrowser: Deferred new asset file creation: book_hardbackMat_Inst
+[2022.06.20-17.02.15:403][942]LogContentBrowser: Creating deferred item: book_hardbackMat_Inst
+[2022.06.20-17.02.15:904][994]LogContentBrowser: Attempting asset rename: book_hardbackMat_Inst -> book_hardbackMat_Inst
+[2022.06.20-17.02.15:905][994]LogContentBrowser: End creating deferred item book_hardbackMat_Inst
+[2022.06.20-17.02.16:402][ 36]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat_Inst.book_hardbackMat_Inst
+[2022.06.20-17.02.31:738][723]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.31:744][723]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-17.02.31:757][724]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-17.02.32:627][771]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-17.02.32:627][771]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-17.02.32:627][771]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-17.02.32:627][771]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.20-17.02.33:398][852]LogMaterialEditor: Saving and Compiling material book_hardbackMat
+[2022.06.20-17.02.33:802][852]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.06.20-17.02.33:830][852]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.06.20-17.02.33:840][852]LogMaterial: Display: Missing cached shader map for material book_hardbackMat, compiling. 
+[2022.06.20-17.02.33:852][852]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.06.20-17.02.33:852][852]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.06.20-17.02.33:852][852]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.20-17.02.33:965][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.06.20-17.02.33:982][852]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.20-17.02.34:545][852]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.20-17.02.34:545][852]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.06.20-17.02.34:545][852]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.20-17.02.34:545][852]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.20-17.02.34:777][852]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.06.20-17.02.34:777][852]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.20-17.02.34:777][852]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.20-17.02.34:777][852]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.06.20-17.02.34:803][852]TextureStreamingBuild: Display: Compiling optional shaders took 0.825 seconds.
+[2022.06.20-17.02.34:834][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.06.20-17.02.35:262][852]LogSavePackage: Moving '../../../../../GitRepo/Dyslexia/Saved/book_hardbackMat056F4F6D4F9FB8E6248A03899B3163CF.tmp' to '../../../../../GitRepo/Dyslexia/Content/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.uasset'
+[2022.06.20-17.02.35:271][852]AssetCheck: New page: Asset Save: book_hardbackMat
+[2022.06.20-17.02.35:271][852]LogContentValidation: Display: Validating Material /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat.book_hardbackMat
+[2022.06.20-17.02.35:272][852]MaterialEditorStats: Base pass shader: 174 instructions
+[2022.06.20-17.02.35:272][852]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2022.06.20-17.02.35:272][852]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.20-17.02.35:272][852]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.20-17.02.35:783][904]LogSlate: Window 'book_hardbackMat_Inst' being destroyed
+[2022.06.20-17.02.35:792][904]LogSlate: Window 'book_hardbackMat_Inst' being destroyed
+[2022.06.20-17.02.35:816][904]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-17.02.35:816][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-17.02.35:862][904]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-17.02.35:862][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-17.02.35:890][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.06.20-17.02.35:905][904]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.06.20-17.02.35:916][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.06.20-17.02.35:922][904]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-17.02.35:922][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-17.02.37:770][ 86]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Dyslexia/Dyslexia_Blueprints/Materials/book_hardbackMat_Inst.book_hardbackMat_Inst
